@@ -1,7 +1,7 @@
 # Embed widget of Telegram Messenger
 
 Widget of Telegram Channel or Group for your website
-
+<center>
 http://tgwidget.com/
 
 Widget #1
@@ -18,3 +18,4 @@ Widget #3 (Group)
 
 Widget #4 (Group)
 ![Widget #4](4.png)
+</center>
